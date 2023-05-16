@@ -7,6 +7,7 @@
 
 <a href="https://github.com/erizonade"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=erizonade&show_icons=true&count_private=true&hide=issues,stars&cache_seconds=86400&theme=vue-dark&custom_title=Github%20Stats" align="right" height="150" /></a>
 
+
 </br></br>
 
 
